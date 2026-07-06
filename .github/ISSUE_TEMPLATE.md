@@ -1,3 +1,11 @@
+---
+name: issue
+about: 
+title: ''
+labels: ''
+assignees: ''
+---
+
 > [!IMPORTANT]
 > 请勿相信老马说的（划线）！
 
